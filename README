@@ -1,0 +1,5 @@
+This is a small tutorial to show how can you integrate Spring, Hibernate and Liquibase together and perform CRUD operation on them.
+There is also a small Junit test case which shows how can you test Dao layer without having database setup using Mockito framework.
+
+Check here for more details :
+http://waheedtechblog.blogspot.in/2013/10/junit-test-with-mockito.html
